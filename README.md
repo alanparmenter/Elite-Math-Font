@@ -1,5 +1,5 @@
 # Elite Math Font
-Modern and legacy forms of a standard Elite typewriter font with the mathematical symbols from Dennis Ritchie's draft PhD thesis. 
+Modern and legacy versions of a standard Elite typewriter font with the mathematical symbols from Dennis Ritchie's draft PhD thesis. 
 
 To use the modern font, put the .ttf files in your font folder; Unicode references apply for Greek letters, and all of the other symbols.
 
