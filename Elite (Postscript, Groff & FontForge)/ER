@@ -1,0 +1,178 @@
+# This file has been generated with GNU afmtodit (groff) version 1.22.4
+#
+#   FullName Elite
+#   Version 1.000
+#   FamilyName Elite
+
+name ER
+internalname Elite
+spacewidth 650
+
+charset
+u0000	650,0	0	0	uni0000
+u000D	650,0	0	13	uni000D
+space	650	0	32	space
+!	650,732	2	33	exclam
+"	650,861	2	34	quotedbl
+dq	"
+#	650,746,66	2	35	numbersign
+sh	"
+$	650,943,45	2	36	dollar
+Do	"
+%	650,849,114	2	37	percent
+&	650,690	0	38	ampersand
+aq	650,861	2	39	quotesingle
+(	650,840,175	3	40	parenleft
+)	650,840,175	3	41	parenright
+*	650,710	2	42	asterisk
++	650,566	0	43	plus
+,	650,233,159	0	44	comma
+-	650,335	0	45	hyphen
+hy	"
+.	650,229	0	46	period
+/	650,894,209	3	47	slash
+sl	"
+0	650,700	2	48	zero
+1	650,680,2	0	49	one
+2	650,700	2	50	two
+3	650,700	2	51	three
+4	650,699	2	52	four
+5	650,700,1	2	53	five
+6	650,700	2	54	six
+7	650,700	2	55	seven
+8	650,700,1	2	56	eight
+9	650,701	2	57	nine
+:	650,524	0	58	colon
+;	650,524,164	0	59	semicolon
+<	650,724	2	60	less
+=	650,442	0	61	equal
+>	650,724	2	62	greater
+?	650,730	2	63	question
+@	650,792,64	2	64	at
+at	"
+A	650,693	2	65	A
+B	650,701	2	66	B
+C	650,701	2	67	C
+D	650,701,1	2	68	D
+E	650,699,1	2	69	E
+F	650,699,1	2	70	F
+G	650,699	2	71	G
+H	650,699	2	72	H
+I	650,700,1	2	73	I
+J	650,702,1	2	74	J
+K	650,702	2	75	K
+L	650,700,1	2	76	L
+M	650,704	2	77	M
+N	650,700	2	78	N
+O	650,700	2	79	O
+P	650,702	2	80	P
+Q	650,700,142	2	81	Q
+R	650,702,1	2	82	R
+S	650,700	2	83	S
+T	650,699	2	84	T
+U	650,700	2	85	U
+V	650,700	2	86	V
+W	650,699	2	87	W
+X	650,700	2	88	X
+Y	650,698,2	2	89	Y
+Z	650,700	2	90	Z
+[	650,793,130	2	91	bracketleft
+lB	"
+\	650,894,209	3	92	backslash
+rs	"
+]	650,790,133	2	93	bracketright
+rB	"
+ha	650,869	2	94	asciicircum
+_	650,0,80	0	95	underscore
+ga	650,870	2	96	grave
+a	650,502	0	97	a
+b	650,700,2	2	98	b
+c	650,503	0	99	c
+d	650,700,2	2	100	d
+e	650,500,1	0	101	e
+f	650,743,1	2	102	f
+g	650,492,177	1	103	g
+h	650,699	2	104	h
+i	650,700,5	2	105	i
+j	650,699,183	3	106	j
+k	650,699	2	107	k
+l	650,699	2	108	l
+m	650,498,1	0	109	m
+n	650,507,1	0	110	n
+o	650,500	0	111	o
+p	650,515,169	1	112	p
+q	650,513,169	1	113	q
+r	650,500	0	114	r
+s	650,500,1	0	115	s
+t	650,692	2	116	t
+u	650,500	0	117	u
+v	650,500	0	118	v
+w	650,500	0	119	w
+x	650,499,1	0	120	x
+y	650,500,190	1	121	y
+z	650,500	0	122	z
+{	650,865,215	3	123	braceleft
+lC	"
+|	650,848,561	3	124	bar
+ba	"
+}	650,865,215	3	125	braceright
+rC	"
+ti	650,421	0	126	asciitilde
+u00A0	650,0	0	160	uni00A0
+ct	650,856,59	2	162	cent
+sc	650,824,138	2	167	section
+de	650,861	2	176	degree
+t+-	650,636	0	177	plusminus
+12	325,0	0	189	onehalf
+'e	650,870,1	2	233	eacute
+sb	650,498	0	256	propersubset
+mo	650,513	0	257	element
+u1D49F	650,713,14	2	258	u1D49F
+*p	650,536,33	0	259	pi
+u2130	650,769,28	2	260	u2130
+*S	650,750	2	261	Sigma
+*g	650,572,250	1	262	gamma
+bu	650,396	0	263	bullet
+u1D49E	650,744,1	2	264	u1D49E
+sp	650,498	0	265	propersuperset
+ip	650,498,330	1	266	reflexsuperset
+*d	650,716,1	2	267	delta
+~~	650,496	0	268	approxequal
+~=	"
+en	650,334	0	269	endash
+em	650,336	0	270	emdash
+u2112	650,743,26	2	271	u2112
+*s	650,573,43	0	272	sigma
+u2113	650,761,27	2	273	u2113
+*a	650,513	0	274	alpha
+<=	650,724,290	3	275	lessequal
+->	650,517	0	276	arrowright
+\-	650,335	0	277	minus
+u1D4A5	650,641	0	278	u1D4A5
+lq	650,861	2	279	quotedblleft
+>=	650,724,290	3	280	greaterequal
+ib	650,498,330	1	281	reflexsubset
+uE264	650,702,475	3	282	uE264
+wp	650,759,27	2	283	u2118
+u2238	650,616	0	284	u2238
+u33D2	650,729,255	3	285	u33D2
+uE26E	650,1188,475	3	286	uE26E
+nm	650,890,530	3	287	notelement
+*P	650,750	2	288	Pi
+u2133	650,636	0	289	u2133
+*c	650,732,172	3	290	xi
+*F	650,699	2	291	Phi
+rq	650,861	2	292	quotedblright
+*r	650,554,237	1	293	rho
+!=	650,999,256	3	294	notequal
+*w	650,551,18	0	295	omega
+*b	650,700,167	2	296	beta
+~	650,421	0	297	tilde
+a~	"
+*t	650,536,14	0	298	tau
+es	650,999,256	3	299	emptyset
+cu	650,742	2	300	union
+*f	650,575,187	1	301	phi
+te	650,750,14	2	302	existential
+u211B	650,759,33	2	303	u211B
+ca	684,742	2	304	intersection

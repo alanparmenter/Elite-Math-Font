@@ -1,0 +1,96 @@
+.PRINTSTYLE TYPESET
+.HEADERS OFF
+.HEADER_RULE OFF
+.PAGINATE OFF
+.SS DEFAULT
+.LEFT
+.PAGE 8.5i 11i 1.2i 0.5i 1.3i \" Page size, margins
+.FAMILY  E      \" Elite
+.FT      R      \" Regular
+.PT_SIZE 10     \" Point size
+.LS      17      \" Leading (line spacing)
+.char \[*a] \f[ER]\[*a]\fP\"alpha
+.char \[*b] \f[ER]\[*b]\fP\"beta
+.char \[*g] \f[ER]\[*g]\fP\"gamma
+.char \[*d] \f[ER]\[*d]\fP\"delta
+.char \[*c] \f[ER]\[*c]\fP\"xi
+.char \[*p] \f[ER]\[*p]\fP\"pi
+.char \[*r] \f[ER]\[*r]\fP\"rho
+.char \[*s] \f[ER]\[*s]\fP\"sigma
+.char \[*t] \f[ER]\[*t]\fP\"tau
+.char \[*f] \f[ER]\[*f]\fP\"phi
+.char \[*w] \f[ER]\[*w]\fP\"omega
+.START
+Elite in PFA format from Fontforge \[en] Elite.sfd (ISO8859-1)
+
+& ER file made with afmtodit
+
+FOR USE WITH GROFF
+
+Standard Characters:
+
+!"#$%&()*+,-./:;<=>?@[]|_~{}
+
+0123456789
+
+abcdefghijklmnopqrstuvwxyz
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Special Characters with Escape Sequences:
+
+\(aq:\\(aq
+\[*a]:\\[*a]
+\[*b]:\\[*b]
+\[*g]:\\[*g]
+\[*d]:\\[*d]
+\[*c]:\\[*c]
+\[*p]:\\[*p]
+\[*r]:\\[*r]
+\[*s]:\\[*s]
+\[*t]:\\[*t]
+\[*f]:\\[*f]
+\[*w]:\\[*w]
+\[*S]:\\[*S]
+\[*P]:\\[*P]
+\[*F]:\\[*F]
+\[ha]:\\[ha]
+\[ga]:\\[ga]
+\[ct]:\\[ct]
+\[sc]:\\[sc]
+\[de]:\\[de]
+\[t+-]:\\[t+-]
+\['e]:\\[\[aq]e]
+\[u1D49E]:\\[u1D49E]
+\[u1D49F]:\\[u1D49F]
+\[u2130]:\\[u2130]
+\[u1D4A5]:\\[u1D4A5]
+\[u2112]:\\[u2112]
+\[u2113]:\\[u2113]
+\[u2133]:\\[u2133]
+\[wp]:\\[wp]
+\[u211B]:\\[u211B]
+\[en]:\\[en]
+\[em]:\\[em]
+\[u2238]:\\[u2238]
+\[bu]:\\[bu]
+\[~~]:\\[~~]
+\[!=]:\\[!=]
+\[>=]:\\[>=]
+\[<=]:\\[<=]
+\[es]:\\[es]
+\[ca]:\\[ca]
+\[cu]:\\[cu]
+\[sb]:\\[sb]
+\[sp]:\\[sp]
+\[ib]:\\[ib]
+\[ip]:\\[ip]
+\[te]:\\[te]
+\[mo]:\\[mo]
+\[nm]:\\[nm]
+\[->]:\\[->]
+\[u33D2]:\\[u33D2]
+\[uE264]:\\[uE264]
+\[uE26E]:\\[uE26E]
+Half space: \\[12]
+
